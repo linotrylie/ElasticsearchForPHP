@@ -17,10 +17,12 @@ php artisan vendor:publish
 ##### 安装顺序不能弄错，否则会报错
 
 在运行上面最后一条指令后，会出现这个界面：
+
 ![微信截图_20211209153900.png][1]
 
 
-  [1]: https://www.wanone.cn/usr/uploads/2021/12/1888066600.png
+  [1]: https://github.com/linotrylie/ElasticsearchForPHP/blob/main/1888066600.png
+
 
 我们选择 9 就行啦！
 
