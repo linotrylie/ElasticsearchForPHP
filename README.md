@@ -1,0 +1,2 @@
+# ElasticsearchForPHP
+基于Laravel框架，实现Elasticsearch搜索引擎的使用
